@@ -16,7 +16,7 @@ Manual instrumentation example using https://prometheus.github.io/client_python/
 in this prometheus_flask_exporter example https://github.com/rycus86/prometheus_flask_exporter/tree/master/examples/sample-signals
 which in the example are automatically exported by the prometheus_flask_exporter library
 Simply follow the instructions in the README.md or at https://github.com/rycus86/prometheus_flask_exporter/tree/master/examples/sample-signals
-to run the example and see the metrics in the Prometheus UI
+to run the example and view the dashboard in Grafana
 """
 
 # Custom metric collector registry
